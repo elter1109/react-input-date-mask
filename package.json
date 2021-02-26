@@ -1,7 +1,7 @@
 {
   "name": "react-input-date-mask",
   "version": "1.0.3",
-  "description": "",
+  "description": "Masked input component for React",
   "main": "./lib/ReactInputDateMask.js",
   "scripts": {
     "build": "webpack"
@@ -15,7 +15,15 @@
     "date-format",
     "react-component"
   ],
-  "author": "Elena Tereshina",
+  "author": "Elena Tereshina <vpelena110981@gmail.com>",
+  "homepage": "https://github.com/elter1109/react-input-date-mask",
+  "bugs": {
+    "url": "https://github.com/elter1109/react-input-date-mask/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elter1109/react-input-date-mask"
+  },
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.1",
