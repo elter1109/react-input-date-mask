@@ -1,6 +1,6 @@
 {
   "name": "react-input-date-mask",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Masked input component for React",
   "main": "./lib/ReactInputDateMask.js",
   "scripts": {
