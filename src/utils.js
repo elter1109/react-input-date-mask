@@ -1,4 +1,4 @@
-const ua = window.navigator?.userAgent ?? "";
+const ua = typeof window !== "undefined" ? window.navigator?.userAgent ?? "" : "";
 
 function searchMobil(ua) {
     const regex = /Mobile|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|mini/i
